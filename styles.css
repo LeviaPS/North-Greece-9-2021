@@ -1,0 +1,77 @@
+.all_site {
+	width:1300px;
+	background-color:#DCDCDC;
+	margin-top:0 auto;
+	border:2px solid #708090;
+}
+
+header {
+	margin:0 auto;
+	width:100%;
+	height:140px;
+	float:left;
+}
+
+header nav {
+	margin:0;
+	width:100%;
+	height:40px;
+	float:left;
+	background-color:gray;
+	
+	
+}
+
+header nav ul {
+	list-style-type:none;
+	margin-top:4px;
+}
+
+header nav ul a {
+	color:white;
+}
+
+header nav li {
+	display:inline-block;
+	border:1px solid black;
+	width:100px;
+	text-align:center;
+	line-height:30px;
+	height:30px;
+	vertical-align:center;
+	
+}
+
+header img {
+	width: 1300;
+	
+}
+
+body {
+	text-decoration:none;
+}
+
+.main {
+	margin-left:35px;
+	margin-top:480px;
+}
+
+#specialStyle {
+	width:50%;
+	border: 2px solid white;
+	font-style:italic;
+}
+
+.white {
+	color: gray;
+}
+
+
+
+
+
+
+
+
+
+
